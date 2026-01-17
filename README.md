@@ -7,7 +7,7 @@ It cleans the data, splits it into train/test sets, trains models, evaluates the
 ---
 
 ## Files in this project
-- `testt.Rmd`: Main code (data cleaning, training, evaluation, export). :contentReference[oaicite:1]{index=1}  
+- `testt.Rmd`: Main code (data cleaning, training, evaluation, export).
 - `testt.docx`: Report write-up (if you are using it for submission).
 
 ---
