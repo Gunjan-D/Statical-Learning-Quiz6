@@ -13,7 +13,7 @@ It cleans the data, splits it into train/test sets, trains models, evaluates the
 ---
 
 ## Dataset assumptions
-- Input file: `GreatUnknown.csv` :contentReference[oaicite:2]{index=2}  
+- Input file: `GreatUnknown.csv` 
 - Target column: `y` (converted to factor for classification). 
 - Other columns are features used for prediction.
 
