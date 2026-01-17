@@ -47,7 +47,7 @@ The notebook loads packages used for:
 ### 5) Pruned decision tree (cross validation)
 - Uses `caret::train` with 10-fold CV to find best `cp`
 - Plots the model
-- Uses the best model (pruned tree) for prediction :contentReference[oaicite:8]{index=8}
+- Uses the best model (pruned tree) for prediction 
 
 ### 6) Logistic regression
 - Trains `glm(y ~ ., family = binomial)`
