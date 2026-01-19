@@ -80,7 +80,7 @@ The notebook loads packages used for:
 ### D) Majority Vote
 - For each row: take the label predicted by at least 2 out of 3 models.
 - Acts like a simple ensemble to improve stability. 
----
+
 
 ## Metrics used (from confusion matrix)
 Given confusion matrix:
@@ -95,7 +95,6 @@ Metrics:
 - **Specificity** = TN / (TN + FP)
 - **Accuracy** = (TP + TN) / (TP + TN + FP + FN)
 
----
 
 ## How to run
 
