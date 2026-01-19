@@ -17,8 +17,6 @@ It cleans the data, splits it into train/test sets, trains models, evaluates the
 - Target column: `y` (converted to factor for classification). 
 - Other columns are features used for prediction.
 
----
-
 ## Steps and logic (high level)
 
 ### 1) Load packages
