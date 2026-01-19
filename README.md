@@ -62,7 +62,7 @@ The notebook loads packages used for:
   - Logistic Regression (LR)
 - Uses row-wise majority vote
 - Computes confusion matrix + metrics for the ensemble
-- Exports results to `prediction_results.xlsx` :contentReference[oaicite:10]{index=10}
+- Exports results to `prediction_results.xlsx` 
 
 ---
 
