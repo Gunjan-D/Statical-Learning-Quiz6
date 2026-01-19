@@ -53,7 +53,7 @@ The notebook loads packages used for:
 - Trains `glm(y ~ ., family = binomial)`
 - Predicts probabilities on test set
 - Converts probabilities to class labels using threshold 0.5
-- Computes confusion matrix and metrics :contentReference[oaicite:9]{index=9}
+- Computes confusion matrix and metrics 
 
 ### 7) Majority vote ensemble
 - Combines predictions from:
