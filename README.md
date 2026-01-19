@@ -73,7 +73,7 @@ The notebook loads packages used for:
 - Full tree uses `cp = 0` to allow maximum growth (can overfit). 
 ### B) Pruned Tree (cross validated)
 - Uses k-fold cross validation to choose a `cp` that balances fit vs generalization.
-- This usually reduces overfitting compared to the full tree. :contentReference[oaicite:12]{index=12}
+- This usually reduces overfitting compared to the full tree. 
 
 ### C) Logistic Regression
 - Fits a linear decision boundary in log-odds space.
